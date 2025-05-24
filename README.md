@@ -11,7 +11,7 @@
 * **MLP Giriş Boyutu:** 80
 * **Gizli Katman Yapısı:** 1 katman, 32 nöron
 * **Çıkış Katmanı Nöron Sayısı:** 40
-* **Mevcut Hali İle Toplam Öğrenilebilir Parametre Sayısı:** ~3,912
+* **Mevcut Hali ile Toplam Öğrenilebilir Parametre Sayısı:** ~3,912
 
 ### Eğitim
 * **Öğrenme Oranı (`learningRate`):** 0.02 (Varsayılan)
