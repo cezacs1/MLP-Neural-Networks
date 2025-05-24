@@ -1,7 +1,7 @@
 ## Teknik Özellikler
 
 ### Model Mimarisi
-* **Model Tipi:** Çok Katmanlı Perseptron (MLP) - İleri Beslemeli Sinir Ağı
+* **Çok Katmanlı Perseptron (MLP) - İleri Beslemeli Sinir Ağı**
 
 ### Varsayılan Parametreler (Koddaki Örnek Corpus İle)
 *Not: Bu değerler, sağlanan örnek `corpus`'a göre hesaplanmıştır ve farklı veri setlerinde değişiklik gösterecektir.*
