@@ -18,5 +18,5 @@
 * **Epoch Sayısı (`epochs`):** 1000 (Varsayılan)
 * **Optimizasyon Algoritması:** Stokastik Gradyan İnişi (SGD) ile Geri Yayılım
 * **Kayıp Fonksiyonu:** Cross-Entropy Loss
-* **JSON formatında kaydetme
-* **JSON formatından yükleme
+* **JSON formatında kaydetme**
+* **JSON formatından yükleme**
