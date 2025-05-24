@@ -3,7 +3,7 @@
 ### Model Mimarisi
 * **Çok Katmanlı Perseptron (MLP) - İleri Beslemeli Sinir Ağı**
 
-### Varsayılan Parametreler (Koddaki Örnek Corpus İle)
+### Varsayılan Parametreler
 *Not: Bu değerler, sağlanan örnek `corpus`'a göre hesaplanmıştır ve farklı veri setlerinde değişiklik gösterecektir.*
 
 * **Pencere Boyutu (`windowSize`):** 2
